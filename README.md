@@ -1,3 +1,3 @@
-Starting Ritual
+Exercise 7.2: Dotfiles
 
-Project start ritual for speed, power and profit.
+This repo contains a copy of my bash file's configuration files.
